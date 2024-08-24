@@ -11,7 +11,9 @@ it's importance are:
 3. Handling big projects- software engineering deals with big projects with ease 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+1:Artificial intelligence - The integration of artificial intelligence (AI) into software development has opened up new possibilities. From automated testing to intelligent code completion, AI is enhancing the efficiency and capabilities of developers. ML algorithms are being used to analyze large datasets, identify patterns, and make predictions, contributing to smarter decision-making in the development process.
+2:Microservices Architecture -Microservices architecture has gained popularity as an alternative to monolithic applications. In this approach, an application is broken down into small, independent services that communicate with each other through APIs. This modular structure allows for easier development, deployment, and scaling of individual services, promoting agility and facilitating continuous integration.
+3:Cloud ComputingThe advent of cloud computing has revolutionized software development by providing scalable and on-demand access to computing resources. Cloud platforms like AWS, Azure, and Google Cloud have enabled developers to build and deploy applications more efficiently, reducing infrastructure costs and increasing scalability. Serverless computing, a subset of cloud computing, allows developers to focus solely on writing code without worrying about managing servers.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
