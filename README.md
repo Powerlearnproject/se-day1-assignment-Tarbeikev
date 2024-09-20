@@ -51,9 +51,50 @@ It’s important to note that these models are not mutually exclusive, and devel
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall is a linear and sequential approach where each phase must be completed 
+Waterfall is a linear and sequential approach where each phase must be completed while agile methodology is an iterative and incremental approach that emphasizes flexibility and collaboration between cross-functional teams. When implementing an agile model, requirements and solutions evolve through collaboration and adaptation to change.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+Roles of asoftware developer
+1:Requirements Gathering
+Software developers start by consulting with clients, managers or stakeholders to understand their needs and the specific requirements for the new software. They discuss the goals, target users, essential features and expected functionality of the proposed software.
+
+2:Software Design
+Once the requirements are established, developers carefully plan out the architecture and structure of the software program. They create diagrams and models to outline the different components, databases, user interfaces and technical capabilities the software should have.
+
+3:Coding
+This is where software developers write the actual code that will make the software work as intended. They use various programming languages like Java, C++, Python, JavaScript etc., based on the type of software being built. Coding involves implementing the planned software design into executable programs.
+
+4:Testing and Debugging
+Before deploying the software, developers rigorously test the code to identify bugs, errors or performance issues. They systematically run the program through multiple scenarios to verify its functioning. Any bugs detected are fixed by debugging the code.
+
+5:Integration and Deployment
+The software is then integrated with other relevant programs, databases or platforms as required. Once all testing is complete, software developers deploy or release the fully functional software so it is accessible to end-users.
+
+6:Maintenance
+Software requires continuous maintenance and upgrades over time. Developers are responsible for managing existing software by fixing bugs, enhancing features, improving performance and adding new functionalities as requirements change.
+
+Roles of a quality assurance manager are:
+1:Analyze the data thoroughly to find the areas of growth
+Develop strategies to improve the production process
+2:Eyeing on the objectives to maximize the profitability of the organization
+3:Providing training to individuals who handle the product
+4:Make sure whether the product goes through auditing and testing
+5:Make sure whether all the legal standards are met and review thoroughly the existing policies and standards
+6:Review the organization’s process to ensure whether they align with the current policies 
+7:Formulate timely reports and documentation to track progress
+8:Identify the training requirements to meet the quality standards
+9:Develop and monitor corrective measures
+10:Make documentation of internal audits and quality assurance activities
+11:Plan, conduct, and monitor the test, and inspect the products to ensure their quality
+12:Take a look at customer complaints
+13:Analyze the data to find the areas for improvement
+
+Roles of a project manager are:
+1:Documenting project report: The
+project manager
+prepares the documentation of the project for future purposes. The reports contain detailed features of the product and various techniques. These reports help to maintain and enhance the quality of the project in the future.
+2:Reporting: Reporting project status to the customer and his or her organization is the responsibility of the project manager. Additionally, they could be required to prepare brief, well-organized pieces that summarize key details from in-depth studies.  
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
